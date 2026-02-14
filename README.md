@@ -32,3 +32,12 @@ My name is René and I am a senior full-stack software engineer with over 15 yea
 </p>
 
 <hr>
+
+### I'm working on
+
+* 🍽️ [Cociplan](https://github.com/renefs/cociplan) - Create diverse lunch and dinner menus using your own recipes
+
+### Archived projects
+
+* 📆 [Whenapp](https://github.com/renefs/whenapp) - Remember the most important moments of your life
+* 🖊️ [Post-Off](https://github.com/renefs/Post-Off) - Wordpress client for MacOS X 
