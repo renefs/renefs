@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is René and I am a senior full-stack software engineer with over 15 years of experience building mission-critical digital ecosystems. My career is defined by a transition from delivering high-performance commercial platforms to leading the architecture of global-scale multimedia infrastructure at CERN ⚛️.
+Hi, I’m René. I have 15+ years of experience developing software where reliability is the priority. My career moved from building commercial web platforms to designing the global multimedia systems used at CERN ⚛️.
+
+While my primary contributions occur within my professional role, I try to remain active in the community by exploring new technologies through side projects and contributing to open-source software.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rene-fernandez/" target="_blank">
@@ -40,4 +42,5 @@ My name is René and I am a senior full-stack software engineer with over 15 yea
 ### Archived projects
 
 * 📆 [Whenapp](https://github.com/renefs/whenapp) - Remember the most important moments of your life
+* 💽 [Codesnug](https://github.com/renefs/codesnug) - Web-based repository for storing, organizing, and sharing reusable code snippets
 * 🖊️ [Post-Off](https://github.com/renefs/Post-Off) - Wordpress client for MacOS X 
