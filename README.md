@@ -38,6 +38,7 @@ While my primary contributions occur within my professional role, I try to remai
 ### I'm working on
 
 * 🍽️ [Cociplan](https://github.com/renefs/cociplan) - Create diverse lunch and dinner menus using your own recipes
+* 🦉 [Buho Stocks](https://github.com/renefs/buho-stocks) - Stocks and dividends portfolio manager
 
 ### Archived projects
 
