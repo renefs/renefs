@@ -40,6 +40,10 @@ While my primary contributions occur within my professional role, I try to remai
 * 🍽️ [Cociplan](https://github.com/renefs/cociplan) - Create diverse lunch and dinner menus using your own recipes
 * 🦉 [Buho Stocks](https://github.com/renefs/buho-stocks) - Stocks and dividends portfolio manager
 
+### Open source contributions
+
+* 📹 [zoom-python-client](https://github.com/renefs/zoom-python-client) - An API client for Zoom written in Python
+
 ### Archived projects
 
 * 📆 [Whenapp](https://github.com/renefs/whenapp) - Remember the most important moments of your life
