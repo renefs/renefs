@@ -46,6 +46,7 @@ While my primary contributions occur within my professional role, I try to remai
 
 ### Archived projects
 
+* ☎️ [CERNPhone Desktop](https://github.com/renefs/desktop-phone-app) - A softphone app for Windows, macOS and Linux developed at CERN. 
 * 📆 [Whenapp](https://github.com/renefs/whenapp) - Remember the most important moments of your life
 * 💽 [Codesnug](https://github.com/renefs/codesnug) - Web-based repository for storing, organizing, and sharing reusable code snippets
 * 🖊️ [Post-Off](https://github.com/renefs/Post-Off) - Wordpress client for MacOS X 
