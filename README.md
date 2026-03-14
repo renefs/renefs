@@ -39,6 +39,7 @@ While my primary contributions occur within my professional role, I try to remai
 
 * 🍽️ [Cociplan](https://github.com/renefs/cociplan) - Create diverse lunch and dinner menus using your own recipes
 * 🦉 [Buho Stocks](https://github.com/renefs/buho-stocks) - Stocks and dividends portfolio manager
+* 🚙 [Covoitu-bot](https://github.com/renefs/covoitu-bot) - Collaborative Telegram bot for tracking shared carpooling trips and rotations
 
 ### Open source contributions
 
