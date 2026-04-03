@@ -37,8 +37,12 @@ While my primary contributions occur within my professional role, I try to remai
 
 ### I'm working on
 
+* ⏱️ [Limitly](https://github.com/renefs/limitly) - Chrome browser extension that limits the time you spend on websites
 * 💌 [Gmail Auto Dark Mode](https://github.com/renefs/gmail-auto-dark-mode) - Chrome browser extension that applies a dark theme to Gmail when your OS is in dark mode
 * 🍽️ [Cociplan](https://github.com/renefs/cociplan) - Create diverse lunch and dinner menus using your own recipes
+
+### Other projects
+
 * 🦉 [Buho Stocks](https://github.com/renefs/buho-stocks) - Stocks and dividends portfolio manager
 * 🚙 [Covoitu-bot](https://github.com/renefs/covoitu-bot) - Collaborative Telegram bot for tracking shared carpooling trips and rotations
 
