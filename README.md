@@ -48,7 +48,9 @@ While my primary contributions occur within my professional role, I try to remai
 
 ### Open source contributions
 
-* 📹 [zoom-python-client](https://github.com/renefs/zoom-python-client) - An API client for Zoom written in Python
+* 🔵 [Indico](https://github.com/indico/indico) - A conference management tool created at CERN.
+* 🍜 [Newdle](https://github.com/indico/newdle) - A collective meeting scheduling application built at CERN.
+* 📹 [zoom-python-client](https://github.com/renefs/zoom-python-client) - An API client for Zoom written in Python.
 * ☎️ [CERNPhone Desktop](https://github.com/renefs/desktop-phone-app) - A softphone app for Windows, macOS and Linux developed at CERN.
 * 📱 CERNPhone Mobile - A softphone app for Android and iOS developed at CERN using React Native.  
 
